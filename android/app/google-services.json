@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1062782769423",
+    "project_id": "boorshop-fe838",
+    "storage_bucket": "boorshop-fe838.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062782769423:android:666c28a7d3c38f5530c67a",
+        "android_client_info": {
+          "package_name": "com.example.boor_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062782769423-iog8nb78lie31a902667fvktfiahjvvb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.boor_shop",
+            "certificate_hash": "33df36348801c857dbc22f695ce4375c9a7f8d11"
+          }
+        },
+        {
+          "client_id": "1062782769423-dc3277prvmfi3g6ogvlli5se1g3g0dh9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlIeMk8RJB2YEXgmQl49o3xy5JPILk2Kc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062782769423-dc3277prvmfi3g6ogvlli5se1g3g0dh9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

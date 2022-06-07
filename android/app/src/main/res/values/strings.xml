@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facebook_app_id">1025481914750455</string>
+    <string name="app_name">BoorShop</string>
+    <string name="fb_login_protocol_scheme">fb1025481914750455</string>
+    <string name="facebook_client_token">fd7de569fd19da3e1d4bfa60faa69b28</string>
+</resources>
